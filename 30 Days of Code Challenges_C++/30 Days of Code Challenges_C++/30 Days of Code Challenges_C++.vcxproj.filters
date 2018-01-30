@@ -18,6 +18,9 @@
     <ClCompile Include="DAY_0.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Not in here.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="DAY_1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
