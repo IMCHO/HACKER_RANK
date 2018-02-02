@@ -32,25 +32,21 @@ void Person::yearPasses() {
 	age++;
 }
 
-int main()
-{
-	int num;
-	int * age_arr;
-	cin >> num;
-	age_arr = new int[num];
-	
-	for (int i = 0; i < num; i++) cin >> age_arr[i];
+int main() {
+	int t;
+	int age;
+	cin >> t;
+	for (int i = 0; i < t; i++) {
+		cin >> age;
+		Person p(age);
+		p.amIOld();
+		for (int j = 0; j < 3; j++) {
+			p.yearPasses();
+		}
+		p.amIOld();
 
-	for (int i = 0; i < num; i++)
-	{
-		Person my_person(age_arr[i]);
-		my_person.amIOld();
-		my_person.yearPasses();
-		my_person.yearPasses();
-		my_person.yearPasses();
-		my_person.amIOld();
-		cout << endl;
+		cout << '\n';
 	}
-	
+
 	return 0;
 }
