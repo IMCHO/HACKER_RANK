@@ -15,22 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DAY_0.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Not in here.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="DAY_1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="DAY_2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="DAY3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="DAY4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DAY0.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DAY1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DAY2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
