@@ -32,6 +32,7 @@ public:
 				}
 			}
 		}
+		
 	}
 }; // End of Difference class
 
