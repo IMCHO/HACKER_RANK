@@ -72,6 +72,15 @@
     <ClCompile Include="DAY17.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="DAY18.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DAY19.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DAY20.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdc++.h">
