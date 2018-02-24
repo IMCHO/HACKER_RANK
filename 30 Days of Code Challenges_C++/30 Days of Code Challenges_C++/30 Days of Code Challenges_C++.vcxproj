@@ -173,7 +173,17 @@
     <ClCompile Include="DAY19.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="DAY20.cpp" />
+    <ClCompile Include="DAY20.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="DAY21.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="DAY22.cpp" />
+    <ClCompile Include="DAY23.cpp" />
+    <ClCompile Include="DAY24.cpp" />
+    <ClCompile Include="DAY25.cpp" />
+    <ClCompile Include="DAY26.cpp" />
     <ClCompile Include="DAY3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
     </ClCompile>
